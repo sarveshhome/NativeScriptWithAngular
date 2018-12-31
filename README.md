@@ -38,7 +38,9 @@
 `tns update`
 	
 ## control 
-	
+
+`npm i nativescript-angular`
+
 `npm i nativescript-ui-listview`
 	
 ### For Textbox, label,radio button,
